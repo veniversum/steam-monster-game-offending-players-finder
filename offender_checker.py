@@ -4,7 +4,7 @@ import time
 import traceback
 
 #VARIABLES TO EDIT
-logDirectory = r"C:\Users\Veniversum\Dropbox\Public\MSG2015\20150619\\"
+logDirectory = r".\\"
 gameid = 46100
 
 #DO NOT EDIT
